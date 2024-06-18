@@ -39,7 +39,7 @@ Technologies that we used to develop this api
 Clone the repo using
 
 ```bash
-git clone https://github.com/HarrisonHenri/rocketsocket.git
+git clone https://github.com/hlushchukm/rocketchat.git
 ```
 
 ```bash
